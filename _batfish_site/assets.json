@@ -1,0 +1,23 @@
+{
+  "manifest": {
+    "js": "/assets/manifest.js"
+  },
+  "app": {
+    "js": "/assets/app.js"
+  },
+  "assembly-js": {
+    "js": "/assets/assembly-js.chunk.js"
+  },
+  "home": {
+    "js": "/assets/home.chunk.js"
+  },
+  "not-found": {
+    "js": "/assets/not-found.chunk.js"
+  },
+  "vendor": {
+    "js": "/assets/vendor.js"
+  },
+  "": {
+    "html": "/assets/index.html"
+  }
+}

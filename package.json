@@ -1,0 +1,41 @@
+{
+  "name": "react-tweet",
+  "version": "1.0.0",
+  "description": "make a tweet",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint src",
+    "start": "batfish start",
+    "build": "batfish build",
+    "serve-static": "batfish serve-static"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzdraper/react-tweet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mzdraper/react-tweet/issues"
+  },
+  "homepage": "https://github.com/mzdraper/react-tweet#readme",
+  "dependencies": {
+    "@mapbox/assembly": "^0.23.1",
+    "@mapbox/batfish": "^1.9.5",
+    "@mapbox/eslint-config-mapbox": "^1.2.1",
+    "@mapbox/mapbox-batfish-helpers": "^0.6.0",
+    "@mapbox/mbx-assembly": "^0.28.1",
+    "@mapbox/mr-ui": "^0.3.2",
+    "babel-eslint": "^9.0.0",
+    "canvas-to-blob": "0.0.0",
+    "eslint": "^5.6.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-react": "^7.11.1",
+    "eslint-plugin-xss": "^0.1.9",
+    "react": "^16.5.1",
+    "react-dom": "^16.5.1",
+    "react-helmet": "^5.2.0"
+  }
+}
